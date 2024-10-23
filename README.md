@@ -1,4 +1,4 @@
-##ABSTRACT
+ABSTRACT
 
 
 With the Predictions of world earth organization that number of deaths due to traffic accidents will be around two million with less than fifteen years, researches now a days are paying more attention in how to help in preventing traffic accidents and lower than the number of occurred fatalities. The purpose of the study is an attempt to prevent traffic accidents due to fatigue or sleepiness. Developed system uses a camera and image processing techniques embedded in a raspberry pi three module to detect drivers eye and decide whether the driver is sleepy or not based on this decision and alarm system will be activated. Alarm can be visual, audio and even a simple vibration in the steering wheel.
@@ -99,7 +99,7 @@ gives the emergency light.
 
 
 
-SENSER SETTING:
+SENSER SETTING:
 
 
 
